@@ -1,8 +1,8 @@
 <h1 align="center",color="red">Hi 👋, I'm Ganesh Pawar</h1>
-<h3 align="center">Dynamic .NET Full Stack Wizard 🧙‍♂️ | Architect of Digital Marvels 🔥 | Angular | MVC | Web API | .NET Core Guru | Ready to Revolutionize Your Team!</h3>
+<h3 align="center">Dynamic .NET Full Stack Wizard 🧙‍♂️ | Architect of Digital Marvels 🔥 | MVC | Web API | .NET Core Guru | Ready to Revolutionize Your Team!</h3>
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshpawar-dotnetdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshpawar-dotnetdeveloper" /> </p>
-- 🔭 I’m currently working on 💼 at Square Vision Technologies for the past 2 years, where I've had the privilege to dive deep into a diverse range of technologies and responsibilities.
+- 🔭 I’m currently working on 💼 at Mind Spark Technology for the past 2.10 years, where I've had the privilege to dive deep into a diverse range of technologies and responsibilities.
 
 - 🌱 I’m currently learning **angular**
 
