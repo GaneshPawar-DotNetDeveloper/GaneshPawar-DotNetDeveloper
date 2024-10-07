@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ganesh.pawar.net@gmail.com**
 
-- 📄 Know about my experiences [https://ganeshpawar-dotnetdeveloper.github.io/My-Resume/](https://ganeshpawar-dotnetdeveloper.github.io/My-Resume/)
+- 📄 Know about my experiences [[https://ganeshpawar-dotnetdeveloper.github.io/My-Resume/](https://ganeshpawar-dotnetdeveloper.github.io/My-Resume/](https://ganeshpawar-dotnetdeveloper.github.io/Resumes/))
 
 - ⚡ Fun fact **It's funny that I read books all night when I start to read them, that's how I learn new things**
  <p align-left> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
